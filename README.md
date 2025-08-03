@@ -18,6 +18,8 @@ THe procees or the steps need to follow is
 Step1: Downlode the repository and unzip the reposty 
 
 *** While unziping the folders make sure you unzip the model forlder also as the model is uploded zip due to size constrantes*****
+
+
 Step2: After downlode the reposotory change the paths according to ur local directory of "my_model.h5"
 
 step3: After that  open your teminal and with the woring directory and enter the command "python app.py"

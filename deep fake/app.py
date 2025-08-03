@@ -10,7 +10,7 @@ import tempfile
 app = Flask(__name__)
 
 # Load the trained deepfake detection model
-MODEL_PATH = 'D:\studyes\deep fake\inceptionv3_deepfake_model.h5'  # Update path
+MODEL_PATH = '..\my_model.h5'  # Update path
 model = load_model(MODEL_PATH)
 
 def preprocess_frame(frame):
